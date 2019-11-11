@@ -1,2 +1,2 @@
 # Aulas_Computacao
-Aulas
+Anotações das aulas de Computação (4º Período EPGE)
